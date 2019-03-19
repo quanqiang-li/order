@@ -33,3 +33,6 @@ http://ip:8763/
 * 访问地址http://host:port/hystrix/
 ![熔断器监控面板](https://note.youdao.com/yws/public/resource/030c5ed1a14c969b99e35b06051c9f7a/xmlnote/D141AEDE8EDE45118D3A3A0168EEE6FF/65718)
 
+# 各种配置
+* feign,hystrix,ribbon的超时设置
+* hystrix的线程池,队列配置
